@@ -1,8 +1,6 @@
 # Zeal
 
-Zeal was a semester-long project completed as part of the [CSE442: Software Engineering course](https://cse442.com/) at the University at Buffalo. With great emphasis on agile practices and efficient team coordination, we were able to finish 2 weeks early and achieve the highest possible grade.
-
-[Check out the live demo on Heroku!](https://zeal5.herokuapp.com/) (Note: Due to Heroku's free tier, the site may take a minute to wake from sleep.)
+Zeal was a semester-long project completed as part of the [CSE442: Software Engineering course](https://cse442.com/) at the University at Buffalo. With great emphasis on Agile practices and efficient team coordination, we were able to finish 2 weeks early and achieve the highest possible grade.
 
 ## What is Zeal? (Pitch)
 
@@ -12,6 +10,20 @@ Imagine you are joining an event that requires you to create a team, and you fee
 
 Don’t worry anymore! We have addressed all these issues with Zeal…
 We help hackathons and event participants, startups, and individuals with ideas to find worthy team members who can together execute their ideas to reality, instead of wasting precious time researching the technicalities and losing the overall focus. Hence, filling the gap between people with ideas and people who can execute.
+
+## Links
+
+[Live Demo](https://zeal5.herokuapp.com/) (Note: Due to Heroku's free tier, the site may take a minute to wake from sleep.)
+
+[Figma Wireframe](https://www.figma.com/file/aR9EqyzY9YERRAejHNCRDB/Zeal?node-id=0%3A1)
+
+## Screenshots
+
+![zeal5 herokuapp com_(Desktop HD) (1)](https://user-images.githubusercontent.com/54859075/178938157-1316f030-e690-4466-9a1e-2cfbf1f7eaad.png)
+![zeal5 herokuapp com_(Desktop HD) (3)](https://user-images.githubusercontent.com/54859075/178938181-91b3f90f-7a7a-49eb-b233-90f606435cfb.png)
+![zeal5 herokuapp com_(Desktop HD) (4)](https://user-images.githubusercontent.com/54859075/178938192-e417ff75-acbc-4a3e-8475-6ac98f903735.png)
+![zeal5 herokuapp com_(Desktop HD) (2)](https://user-images.githubusercontent.com/54859075/178938199-6cfa7dde-eb22-4d22-b236-2a6695573f37.png)
+
 
 ## Team
 
